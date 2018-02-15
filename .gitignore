@@ -1,0 +1,22 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+node
+target/
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+*~
+*.orig
+
+# Eclipse files
+.classpath
+.project
+.settings
+
+# VScode
+.vscode

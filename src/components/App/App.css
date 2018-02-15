@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex: 1;
+}
+
+.ticker {
+  flex: 0.2;
+}
+
+.order-book {
+  flex: 0.5;
+}
+
+.orders {
+  flex: 0.4;
+}
+.trades {
+  flex: 0.4;
+}
