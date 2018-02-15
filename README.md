@@ -12,6 +12,7 @@ npm run dev
 ## Build and Minify
 
 ```shell
+# creates bundle.js in a dist folder
 npm run build
 ```
 
